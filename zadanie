@@ -59,6 +59,6 @@ update postac set statek="orze" where id_postaci =2 or id_postaci between 7 and 
 delete from izba where wlasciciel=1;
 drop table izba;
   
-  ZADANIE 5
+
   
   
